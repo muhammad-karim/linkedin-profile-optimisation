@@ -62,3 +62,7 @@ The skill refers to "the candidate's master CV" and portfolio. Before use, tell 
 - Many LinkedIn statistics online are unsourced. This skill doesn't build rules on them.
 - Anything you add to About is public. Decide what you want seen by your network, not just recruiters.
 - Some features (such as the full skills list and analytics) may only be visible on the page itself, so check those by eye.
+
+## Licence
+
+MIT. Free to use and adapt.
