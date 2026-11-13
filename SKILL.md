@@ -1,7 +1,27 @@
 ---
 name: linkedin-profile-optimisation
-description: Optimise a professional LinkedIn profile (headline, About, skills, experience, photo, banner, job-search settings) so it matches the candidate's CV and portfolio and is found by recruiters. Use when updating or reviewing a LinkedIn profile.
+description: Optimise a LinkedIn profile for recruiters and job search: headline, About, skills, experience, photo, banner and job-search settings, kept consistent with the candidate's CV and portfolio. Use when someone asks to improve, review, rewrite or update a LinkedIn profile, headline or About section, or to make it easier for recruiters to find them.
 ---
+
+<!--
+  HOW THIS SKILL WORKS (a note for people reading this file)
+
+  This file tells Claude how to review and improve one LinkedIn profile.
+  It works in three steps:
+
+    1. REVIEW  - Claude reads the profile as a recruiter would and checks it
+                 against the master CV and portfolio, so titles, dates and
+                 figures agree everywhere.
+    2. DRAFT   - Claude proposes changes: a headline of eight words or fewer,
+                 an About section with the candidate's key figures, experience
+                 entries that lead with results, and a skills list they can
+                 back up.
+    3. CONFIRM - Claude shows the exact wording before anything is published,
+                 and changes only what the candidate approves.
+
+  Claude never publishes profile text, and never changes settings, without the
+  candidate's explicit yes.
+-->
 
 # LinkedIn profile optimisation
 
